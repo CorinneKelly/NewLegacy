@@ -1,0 +1,42 @@
+html {
+	font-family: Arial, "Helvetica", sans-serif;
+}
+
+.heading {
+	background-color: white;
+}
+
+#logo {
+	width: 25%;
+	height: 25%;
+	float: left;
+}
+
+ .top {
+ 	font-weight: bold;
+ 	font-size: 20px;
+ 	text-align: center;
+ 	color: #007761;
+
+ 	float: right;
+ 	display: block;
+
+ 	width: 150px;
+ 	height: 60px;
+ 	margin: 10px;
+
+ 	text-decoration: none;
+ }
+
+.mid {
+	width: 33%;
+	float: left;
+}
+
+#wealth {
+	float: right;
+	height: 50px;
+	width: 20px;
+
+	margin-left: 0;
+}
